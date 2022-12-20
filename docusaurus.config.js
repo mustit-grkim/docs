@@ -7,8 +7,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "MUSTIT PUB",
-  tagline: "Dinosaurs are cool",
-  url: "https://your-docusaurus-test-site.com",
+  tagline: "MUSTIT PUB 파트 공간",
+  url: "https://mustit-pub.netlify.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -67,9 +67,9 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Tutorial",
+            label: "협업을 위한 코드컨벤션",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "회사 정보", position: "left" },
           {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",
