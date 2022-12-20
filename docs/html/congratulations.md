@@ -2,7 +2,14 @@
 sidebar_position: 6
 ---
 
-# Congratulations!
+# 공통!
+
+- 모든 애트리뷰트는 큰 따옴표 <code>""</code> 사용
+
+1. 모든 애트리뷰트는 큰 따옴표 <code>""</code> 사용
+2. 들여쓰기는 <code>tab</code>(space 4)을 사용
+   - vscode 기준 -> preferences > setting > text editor > tab size
+3. id 사용은 스타일이 아닌 coupling 에만 사용
 
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
 

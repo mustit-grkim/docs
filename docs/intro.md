@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # 코딩 컨벤션
 
+코드 표준화를 위한 정리
+
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
